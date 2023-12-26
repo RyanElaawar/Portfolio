@@ -44,3 +44,19 @@ body {
     width:100%;
     border-radius: 50px;
 }
+
+.footer {
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 2vh;
+    padding-top: 1vh;
+    padding-left: 5%;
+}
+
+.footer a, h2 {
+    color:lightgray;
+    text-decoration: none;
+    font-size:2vw;
+    font-weight: 100;
+}
+
