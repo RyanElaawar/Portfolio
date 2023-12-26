@@ -1,4 +1,15 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: #0C090A;
+}
+
+body {
+    display: grid;
+    color: white;
+}
+
+.logo {
+    height: 150px;
+    width: auto;
 }
