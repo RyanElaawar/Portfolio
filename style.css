@@ -31,15 +31,16 @@ body {
 }
 
 .header-info p {
-    font-size: 2.4vw;
+    font-size: 2.2vw;
 }
 
 .logo {
     width: 12vw;
-    align-self: flex-start;
+    align-self: center;
 }
 
 .project img {
     padding:20px;
     width:100%;
+    border-radius: 50px;
 }
