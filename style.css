@@ -21,7 +21,7 @@ body {
 }
 
 .header-info {
-    padding-left: 10px;
+    padding-left: 30px;
     display: flex;
     flex-flow:column nowrap;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .footer a, h2 {
-    color:lightgray;
+    color:gray;
     text-decoration: none;
     font-size:2vw;
     font-weight: 100;
